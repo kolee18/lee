@@ -1,6 +1,6 @@
 
 
-<h1 align=center><td><a href="https://github.com/kolee18/lee/edit/master/fang-software.md"><img src="https://github.com/kolee18/lee/blob/master/img/soft.jpg" width="600"></a></td>
+<h1 align=center><td><a href="https://github.com/kolee18/lee/blob/master/fang-software.md"><img src="https://github.com/kolee18/lee/blob/master/img/soft.jpg" width="600"></a></td>
 
   <h1 align=center>信仰将会给人带来什么</h1>  
    <a href=https://git.io/jou>回首頁-看更多資訊</a>
